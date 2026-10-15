@@ -1,2 +1,2 @@
 # dvbi
-This repository is used for my DVBI course.
+This repository is used for learning Git.
