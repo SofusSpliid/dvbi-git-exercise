@@ -1,2 +1,2 @@
 # dvbi
-For my Data and visualization course 
+This repository is used for my DVBI course.
